@@ -63,13 +63,17 @@ Real-time collaborative code editor with:
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyagrwl25\&show_icons=true)
+<div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kavyagrwl25)
+<img src="https://streak-stats.demolab.com?user=kavyagrwl25&theme=tokyonight&hide_border=true" />
 
----
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kavyagrwl25&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 ## 🤝 Connect With Me
 
