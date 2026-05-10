@@ -65,9 +65,9 @@ Real-time collaborative code editor with:
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavyagrwl25\&show_icons=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME)
+![GitHub Streak](https://streak-stats.demolab.com?user=kavyagrwl25)
 
 ---
 
