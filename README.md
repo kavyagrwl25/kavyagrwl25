@@ -66,6 +66,7 @@ Real-time collaborative code editor with:
 ## 📊 GitHub Analytics
 
 <div align="center">
+<img src="https://komarev.com/ghpvc/?username=kavyaagarwal8273&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 <img src="https://streak-stats.demolab.com?user=kavyagrwl25&theme=tokyonight&hide_border=true" />
 
