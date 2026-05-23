@@ -14,7 +14,7 @@ Building scalable MERN applications, real-time systems, and learning how large-s
 
 ### Backend
 
-`Node.js` `Express.js` `REST APIs` `Socket.io` `JWT` `OAuth 2.0` `WebSockets`
+`Node.js` `Express.js` `REST APIs` `Socket.io` `JWT` `OAuth 2.0` `WebSockets` `Redis` 
 
 ### Frontend
 
