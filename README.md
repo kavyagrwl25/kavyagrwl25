@@ -57,7 +57,6 @@ Real-time collaborative code editor with:
 
 * Deployment
 * Docker
-* Redis
 * System Design
 * Scalable Backend Architecture
 
