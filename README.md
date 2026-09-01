@@ -72,8 +72,8 @@ My interests have moved naturally from full-stack → backend → real-time syst
 
 ## Achievements
 
-🏆 **Semi-finalist, Flipkart GRID 8.0** (Software Development Track) — shortlisted from 1.65+ lakh registered participants
-🎯 **Smart India Hackathon 2025** — selected at the institute level among 110+ teams
+- 🏆 **Semi-finalist, Flipkart GRID 8.0** (Software Development Track) — shortlisted from 1.65+ lakh registered participants
+- 🎯 **Smart India Hackathon 2025** — selected at the institute level among 110+ teams
 
 <br/>
 
@@ -81,8 +81,8 @@ My interests have moved naturally from full-stack → backend → real-time syst
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=default&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=default&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kavya's GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
 
 </div>
 
