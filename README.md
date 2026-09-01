@@ -76,15 +76,18 @@ My interests have moved naturally from full-stack → backend → real-time syst
 - 🎯 **Smart India Hackathon 2025** — selected at the institute level among 110+ teams
 
 <br/>
+## 📊 GitHub Stats
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Kavya's GitHub Stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="165"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
+</p>
 
 <br/>
 
