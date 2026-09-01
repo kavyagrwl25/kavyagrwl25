@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kavy%20Agrawal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20System%20Design&descAlignY=62&descSize=17" width="100%"/>
+
+<br/>
+
 <a href="https://github.com/kavyagrwl25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -8,9 +12,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<a href="mailto:kavyaagarwal8273@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Exploring+real-time+systems;Learning+how+systems+scale;Turning+ideas+into+working+software" />
 
 </div>
 
