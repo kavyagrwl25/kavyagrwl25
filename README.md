@@ -251,6 +251,19 @@ I enjoy learning independently — usually by building something, breaking it, a
 
 <img src="https://komarev.com/ghpvc/?username=kavyagrwl25&style=flat-square&color=58A6FF&label=Profile+Views"/>
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kavyagrwl25&theme=tokyonight&hide_border=true&border_radius=10" />
+</p>
+
 <br/><br/>
 
 ### `Build → Learn → Break → Understand → Improve`
