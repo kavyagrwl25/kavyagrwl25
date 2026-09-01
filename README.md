@@ -22,12 +22,6 @@
 
 </div>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Exploring+real-time+systems;Learning+how+systems+scale;Turning+ideas+into+working+software" />
-
-</div>
-
 ---
 
 ## 👋 About Me
