@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kavy%20Agrawal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20System%20Design&descAlignY=62&descSize=17" width="100%"/>
-
-<br/>
-
 <a href="https://github.com/kavyagrwl25">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -11,6 +7,12 @@
 <a href="https://www.linkedin.com/in/kavya-agrawal-a097402a1/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
+<a href="mailto:kavyaagarwal8273@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 <br/><br/>
 
@@ -250,13 +252,6 @@ I enjoy learning independently — usually by building something, breaking it, a
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=kavyagrwl25&style=flat-square&color=58A6FF&label=Profile+Views"/>
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ## 🔥 GitHub Streak
 
