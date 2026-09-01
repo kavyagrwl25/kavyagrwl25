@@ -1,104 +1,260 @@
 <div align="center">
 
-# Hey, I'm Kavya 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Kavy%20Agrawal&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20System%20Design&descAlignY=62&descSize=17" width="100%"/>
 
-**Full-stack developer building real-time systems — currently going deeper into backend engineering and system design.**
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavya-agrawal-a097402a1/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kavyagrwl25)
+<a href="https://github.com/kavyagrwl25">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/kavya-agrawal-a097402a1/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+full-stack+applications;Exploring+real-time+systems;Learning+how+systems+scale;Turning+ideas+into+working+software" />
 
 </div>
 
-<br/>
+---
 
-## About Me
+## 👋 About Me
 
-I'm a final-year Computer Science student at RNS Institute of Technology (RNSIT), Bengaluru, preparing for software engineering roles.
+I'm a **final-year Computer Science student at RNS Institute of Technology, Bengaluru**, preparing for software engineering roles.
 
-I mostly build full-stack web applications, but what actually interests me is the layer underneath — how real-time communication works, how APIs are structured, how systems stay consistent across concurrent users, and how they hold up as load increases. That curiosity is what's pulling me from "building features" toward backend engineering and system design.
+I build full-stack applications with the **MERN stack**, while going deeper into the engineering behind them — real-time communication, APIs, data consistency, caching, asynchronous processing, scalability, and system design.
 
-Right now I'm strengthening DSA in C++ and SQL for placements, while exploring caching, queues, Redis, load balancing, and distributed architectures on the side.
+I'm currently strengthening **DSA in C++ and SQL for placements**, while exploring how production systems are designed to remain reliable and scalable as usage grows.
 
-<br/>
+---
 
-## Featured Projects
+## ⚙️ Engineering Focus
 
-### 🔗 [SyncForge](https://github.com/kavyagrwl25) — Real-time Collaborative Code Editor
-A multi-user coding environment where people join the same room and edit code together in real time — Monaco Editor integration, active users sidebar, and session/reconnection handling.
+<table>
+<tr>
+<td width="50%">
 
-`React` `Node.js` `Express` `Socket.IO` `MongoDB` `Monaco Editor`
+### 🧩 Building
 
-Currently the editor syncs on every keystroke. I'm exploring debouncing, delta-based synchronization, and eventually Redis-backed horizontal scaling to make it hold up across more users and rooms.
+- Full-stack web applications
+- REST APIs
+- Real-time applications
+- Collaborative systems
+- Authentication systems
+- Event-driven features
 
-<br/>
+</td>
 
-### 🔗 [TeamForge](https://github.com/kavyagrwl25) — Developer Collaboration Platform
-**[Live Demo →](https://teamforge-frontend-nine.vercel.app/)**
+<td width="50%">
 
-Full-stack platform with JWT auth over HTTP-only cookies, 15+ REST APIs (pagination, search, filtering), rate limiting, and real-time notifications via Socket.IO, built on a modular backend structure.
+### 🔭 Exploring
 
-`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+- System Design
+- Scalability
+- Redis & caching
+- Queues & async processing
+- Distributed systems
+- Load balancing
+- Database design
 
-<br/>
+</td>
+</tr>
+</table>
 
-## Tech Stack
+---
+
+# 🚀 Featured Projects
+
+## ⚡ SyncForge
+
+### Real-Time Collaborative Code Editor
+
+> **Multiple users. One room. One shared codebase.**
+
+SyncForge is a collaborative coding environment where multiple users can join a room and edit code together in real time.
+
+### ✨ Highlights
+
+- 👥 Multi-user collaborative editing
+- 🔌 Room-based Socket.IO architecture
+- 🧑‍💻 Monaco Editor integration
+- 🌐 Real-time event handling
+- 👤 Active-user presence
+- 🔄 Session & reconnection handling
+- 💻 Multi-language code editing
+
+### 🧠 Engineering Challenge
+
+The current implementation synchronizes editor changes on every keystroke.
+
+This led me to explore:
+
+**Debouncing → Delta Synchronization → Redis → Horizontal Scaling**
+
+The goal is not just to make the application work, but to understand how the architecture should evolve as the number of users and rooms increases.
+
+**Stack:** `React` `Node.js` `Express` `Socket.IO` `MongoDB` `Monaco Editor`
+
+---
+
+## 🚀 TeamForge
+
+### Developer Collaboration Platform
+
+A full-stack collaboration platform focused on authentication, API design, real-time notifications, and scalable application structure.
+
+### ✨ Highlights
+
+- 🔐 JWT authentication with HTTP-only cookies
+- 🔌 15+ REST APIs
+- 🔎 Search, filtering & pagination
+- 🔔 Real-time notifications using Socket.IO
+- 🛡️ Rate limiting
+- 🧱 Modular backend architecture
+
+**Stack:** `React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+🌐 **[Live Demo →](https://teamforge-frontend-nine.vercel.app/)**
+
+---
+
+# 🧠 Learning Path
+
+I'm gradually moving from **"building applications"** toward **"understanding systems."**
 
 <div align="center">
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Full-Stack Development**  
+↓  
+**Backend Engineering**  
+↓  
+**Real-Time Systems**  
+↓  
+**System Design**  
+↓  
+**Distributed Systems**
 
 </div>
 
-<br/>
+### Currently Exploring
 
-## Currently Learning
+`SQL` · `DBMS` · `Redis` · `Caching` · `Queues` · `Async Processing` · `Docker` · `Deployment` · `Load Balancing` · `Distributed Systems`
 
-System design and backend scalability, as an ongoing focus — **SQL, Redis, queues & async processing, Docker, deployment, and distributed systems fundamentals** — alongside DSA in C++ for interviews.
+Alongside this, I'm strengthening **Data Structures & Algorithms in C++** for software engineering interviews.
 
-My interests have moved naturally from full-stack → backend → real-time systems → system design, and that's the direction I'm continuing to build in.
+---
 
-<br/>
+# 🛠️ Tech Stack
 
-## Achievements
+### Languages
 
-- 🏆 **Semi-finalist, Flipkart GRID 8.0** (Software Development Track) — shortlisted from 1.65+ lakh registered participants
-- 🎯 **Smart India Hackathon 2025** — selected at the institute level among 110+ teams
+<img src="https://skillicons.dev/icons?i=cpp,js" />
 
-<br/>
-## 📊 GitHub Stats
+`SQL`
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=kavyagrwl25&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavyagrwl25&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+### Frontend
 
-<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 
-## Beyond Code
+### Backend
 
-Cricket, guitar, and a lot of self-learning through documentation and building things from scratch.
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis" />
 
-<br/>
+`REST APIs` · `Socket.IO` · `WebSockets` · `JWT` · `OAuth 2.0`
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+
+---
+
+# 🏆 Achievements
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🥈 Flipkart GRID 8.0
+
+**Semi-finalist**
+
+Software Development Track
+
+**1.65+ lakh registered participants**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🎯 Smart India Hackathon 2025
+
+**Institute-level selection**
+
+Selected among
+
+**110+ teams**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 Engineering Mindset
+
+I don't want my projects to stop at:
+
+> **"It works."**
+
+I'm learning to ask:
+
+**Does it work? → Is it reliable? → Is it efficient? → What happens under load? → What happens when something fails? → How would I scale it?**
+
+That's the mindset I'm trying to bring into my projects and system-design learning.
+
+---
+
+# 📚 Currently
+
+- 🧠 Strengthening DSA in C++
+- 🗄️ Learning SQL & DBMS
+- ⚡ Exploring Redis, caching and queues
+- 🏗️ Learning system design and scalable architectures
+- 🐳 Learning Docker and deployment
+- 🌐 Exploring distributed systems and real-time architecture
+
+---
+
+# 🎸 Beyond Code
+
+🏏 Cricket · 🎸 Guitar · 🎵 Music · ✈️ Travelling
+
+I enjoy learning independently — usually by building something, breaking it, and figuring out why it works.
+
+---
 
 <div align="center">
 
-📫 Let's connect — [LinkedIn](https://www.linkedin.com/in/kavya-agrawal-a097402a1/) · [GitHub](https://github.com/kavyagrwl25)
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/kavya-agrawal-a097402a1/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=kavyagrwl25&style=flat-square&color=58A6FF&label=Profile+Views"/>
+
+<br/><br/>
+
+### `Build → Learn → Break → Understand → Improve`
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" width="100%"/>
