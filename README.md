@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://leetcode.com/u/coderkavy/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+&nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -93,6 +97,10 @@ A full-stack platform for developers to discover, connect, and interact.
 
 <a href="https://www.linkedin.com/in/kavya-agrawal-a097402a1/">
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/coderkavy/">
+  <img src="https://img.shields.io/badge/LeetCode-coderkavy-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
